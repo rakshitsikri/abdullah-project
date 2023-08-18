@@ -60,6 +60,7 @@ button:focus, input:focus, textarea:focus, select:focus, a:hover
 }
 section{
   padding:4rem 0;
+  background-color: #EBECF0;
 }
 
 
@@ -154,3 +155,5 @@ footer ul a{color: #fff;text-decoration: none;}
   .social li{margin-right: 1rem;font-size: 1.2rem;}
   .footer_scnd ul li{margin-bottom: .5rem;}
   .footer_thrd p{font-size: 1.1rem;}
+.cart{color: #e5c25a;font-size: 1.5rem;}
+.heading span {background: -webkit-linear-gradient(45deg, #222, #ccc 80%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
