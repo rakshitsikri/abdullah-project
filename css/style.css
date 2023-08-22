@@ -60,7 +60,7 @@ button:focus, input:focus, textarea:focus, select:focus, a:hover
 }
 section{
   padding:4rem 0;
-  background-color: #262628;
+  background-color: #1d1d1d;
   color: #e5c25a;
 }
 
@@ -118,7 +118,7 @@ nav ul li a{color: #fff;padding: 0 1rem;text-decoration: none;font-family: 'Mont
 .sec_head {padding: 0;}
 
 nav{display: flex;justify-content: space-between;}
-.bg_black{background-color: #000;color: #fff;}
+.bg_black{background-color: #1a1a1a;color: #fff;}
 .bg_black .product_des{color: #fff;}
 .bg_black .price{color: #fff;}
 .bg_black .cart_options ul a{color: #fff;}
