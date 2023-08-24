@@ -67,14 +67,14 @@ section{
 
 
 
-.header_flex{display: flex;justify-content: space-between;padding: .5rem 2rem;position: sticky;width: 100%;background-color: #000;}
+.header_flex{display: flex;justify-content: space-between;padding: .5rem 2rem;position: fixed;width: 100%;background-color: transparent;z-index: 9;}
 .header_flex .logo{width: 200px;}
 .header_flex .logo a{width: 100%;}
 .header_flex .logo img{width: 100%;filter: invert(1);}
 nav ul{display: flex;align-items: center;height: 100%;margin-bottom: 0;padding: 0;}
 nav ul li{list-style: none;}
 nav ul li a{color: #fff;padding: 0 1rem;text-decoration: none;font-family: 'Montserrat', sans-serif;}
-.banner img{width: 100%;height: 70vh;object-fit: cover;}
+.banner img{width: 100%;height: 85vh;object-fit: cover;}
 .slider_btns div{background-color: #000;width: 35px;height: 35px;}
 .slider_btns div:after{color: #fff;font-size: 1rem;}
 .two_imgs{width: 100%;position: relative;overflow: hidden;}
@@ -127,7 +127,7 @@ nav{display: flex;justify-content: space-between;}
 .user_icon{color: #e5c25a;font-size: 1.5rem;}
 .search{color: #e5c25a;font-size: 1.5rem;}
 .testi_name{color: #e5c25a;}
-footer{background-color: #000;color: #fff;padding: 4rem 0;}
+footer{background-color: #1a1a1a;color: #fff;padding: 4rem 0;}
 .footer p{margin-bottom: 0;}
 .footer_flex{display: flex;flex-wrap: wrap;justify-content: space-between;margin: 0 -1rem;}
 .footer_flex>div{width: calc(100% / 3);padding: 0 1rem;}
