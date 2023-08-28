@@ -6,6 +6,7 @@ body{
   font-family: 'Montserrat', sans-serif;
   font-weight: 400;
   overflow-x: hidden;
+  
 }
 body::-webkit-scrollbar {
   width: .5em;
@@ -62,6 +63,7 @@ section{
   padding:4rem 0;
   background-color: #1d1d1d;
   color: #e5c25a;
+  background-image: url('../images/graph.png');
 }
 
 
@@ -118,7 +120,7 @@ nav ul li a{color: #fff;padding: 0 1rem;text-decoration: none;font-family: 'Mont
 .sec_head {padding: 0;}
 
 nav{display: flex;justify-content: space-between;}
-.bg_black{background-color: #1a1a1a;color: #fff;}
+.bg_black{background-color: #1a1a1a;color: #fff;background-image: none;}
 .bg_black .product_des{color: #fff;}
 .bg_black .price{color: #fff;}
 .bg_black .cart_options ul a{color: #fff;}
@@ -161,3 +163,4 @@ footer ul a{color: #fff;text-decoration: none;}
 .cart{color: #e5c25a;font-size: 1.5rem;}
 .heading span {background: -webkit-linear-gradient(45deg, #222, #ccc 80%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
 .client_logo img{filter: brightness(100);}
+.footer_scnd{width: 15%;}
