@@ -163,4 +163,5 @@ footer ul a{color: #fff;text-decoration: none;}
 .cart{color: #e5c25a;font-size: 1.5rem;}
 .heading span {background: -webkit-linear-gradient(45deg, #222, #ccc 80%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
 .client_logo img{filter: brightness(100);}
-.footer_scnd{width: 15%;}
+.footer_scnd{width: 15%!important;}
+.cta{background-image: url('../images/map.jpg');}
