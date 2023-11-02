@@ -76,133 +76,137 @@
 				<div class="swiper product_slider">
 					<div class="swiper-wrapper">
 						<div class="swiper-slide">
-						<a href="/" class="product_box">
-							<div class="product_img">
-								<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
-							</div>
-							<div class="product_des">
-								The best is yet to come' Framed poster
-							</div>
-							<div class="price-item">
-								<div class="price"> $150.00</div>
-								<div class="cart_options">
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
-										<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
-									</ul>
+							<div class="product_box">
+								<a href="/">
+									<div class="product_img">
+										<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
+									</div>
+									<div class="product_des">
+										The best is yet to come' Framed poster
+									</div>
+								</a>
+								<div class="price-item">
+									<div class="price"> $150.00</div>
+									<div class="cart_options">
+										<ul>
+											<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
+											<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
+										</ul>
+									</div>
 								</div>
-							</div>
-						</a>	
+							</div>	
+						</div>
+						<div class="swiper-slide">
+							<div class="product_box">
+								<a href="/">
+									<div class="product_img">
+										<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
+									</div>
+
+									<div class="product_des">
+										The best is yet to come' Framed poster
+									</div>
+								</a>
+								<div class="price-item">
+									<div class="price"> $150.00</div>
+									<div class="cart_options">
+										<ul>
+											<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
+											<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
+										</ul>
+									</div>
+								</div>
+							</div>	
 						</div>
 
-
 						<div class="swiper-slide">
-						<a href="/" class="product_box">
-							<div class="product_img">
-								<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
-							</div>
-
-							<div class="product_des">
-								The best is yet to come' Framed poster
-							</div>
-							<div class="price-item">
-								<div class="price"> $150.00</div>
-								<div class="cart_options">
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
-										<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
-									</ul>
+							<div class="product_box">
+								<a href="/">
+									<div class="product_img">
+										<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
+									</div>
+									<div class="product_des">
+										The best is yet to come' Framed poster
+									</div>
+								</a>
+								<div class="price-item">
+									<div class="price"> $150.00</div>
+									<div class="cart_options">
+										<ul>
+											<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
+											<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
+										</ul>
+									</div>
 								</div>
-							</div>
-							</a>	
+							</div>	
 						</div>
-
 						<div class="swiper-slide">
-						<a href="/" class="product_box">
-							<div class="product_img">
-								<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
-							</div>
-							<div class="product_des">
-								The best is yet to come' Framed poster
-							</div>
-							<div class="price-item">
-								<div class="price"> $150.00</div>
-								<div class="cart_options">
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
-										<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
-									</ul>
+							<div class="product_box">
+								<a href="/">
+									<div class="product_img">
+										<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
+									</div>
+
+									<div class="product_des">
+										The best is yet to come' Framed poster
+									</div>
+								</a>
+								<div class="price-item">
+									<div class="price"> $150.00</div>
+									<div class="cart_options">
+										<ul>
+											<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
+											<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
+										</ul>
+									</div>
 								</div>
-							</div>
-						</a>	
+							</div>	
 						</div>
-
-
 						<div class="swiper-slide">
-						<a href="/" class="product_box">
-							<div class="product_img">
-								<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
-							</div>
-
-							<div class="product_des">
-								The best is yet to come' Framed poster
-							</div>
-							<div class="price-item">
-								<div class="price"> $150.00</div>
-								<div class="cart_options">
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
-										<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
-									</ul>
+							<div class="product_box">
+								<a href="/">
+									<div class="product_img">
+										<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
+									</div>
+									<div class="product_des">
+										The best is yet to come' Framed poster
+									</div>
+								</a>
+								<div class="price-item">
+									<div class="price"> $150.00</div>
+									<div class="cart_options">
+										<ul>
+											<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
+											<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
+										</ul>
+									</div>
 								</div>
-							</div>
-							</a>	
+							</div>	
 						</div>
-
-
 						<div class="swiper-slide">
-						<a href="/" class="product_box">
-							<div class="product_img">
-								<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
-							</div>
-							<div class="product_des">
-								The best is yet to come' Framed poster
-							</div>
-							<div class="price-item">
-								<div class="price"> $150.00</div>
-								<div class="cart_options">
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
-										<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
-									</ul>
+							<div class="product_box">
+								<a href="/">
+									<div class="product_img">
+										<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
+									</div>
+
+									<div class="product_des">
+										The best is yet to come' Framed poster
+									</div>
+								</a>
+								<div class="price-item">
+									<div class="price"> $150.00</div>
+									<div class="cart_options">
+										<ul>
+											<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
+											<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
+										</ul>
+									</div>
 								</div>
-							</div>
-						</a>	
-						</div>
-
-
-						<div class="swiper-slide">
-						<a href="/" class="product_box">
-							<div class="product_img">
-								<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
-							</div>
-
-							<div class="product_des">
-								The best is yet to come' Framed poster
-							</div>
-							<div class="price-item">
-								<div class="price"> $150.00</div>
-								<div class="cart_options">
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
-										<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
-									</ul>
-								</div>
-							</div>
-							</a>	
+							</div>	
 						</div>
 					</div>
-					</div>
+				</div>
 			</div>
 		</div>
 	</div>
@@ -238,131 +242,135 @@
 			<div class="product_main">
 				<div class="swiper featured_product_slider">
 					<div class="swiper-wrapper">
-						<div class="swiper-slide">
-						<a href="/" class="product_box">
-							<div class="product_img">
-								<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
-							</div>
-							<div class="product_des">
-								The best is yet to come' Framed poster
-							</div>
-							<div class="price-item">
-								<div class="price"> $150.00</div>
-								<div class="cart_options">
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
-										<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
-									</ul>
+					<div class="swiper-slide">
+							<div class="product_box">
+								<a href="/">
+									<div class="product_img">
+										<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
+									</div>
+									<div class="product_des">
+										The best is yet to come' Framed poster
+									</div>
+								</a>
+								<div class="price-item">
+									<div class="price"> $150.00</div>
+									<div class="cart_options">
+										<ul>
+											<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
+											<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
+										</ul>
+									</div>
 								</div>
-							</div>
-						</a>	
+							</div>	
+						</div>
+						<div class="swiper-slide">
+							<div class="product_box">
+								<a href="/">
+									<div class="product_img">
+										<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
+									</div>
+
+									<div class="product_des">
+										The best is yet to come' Framed poster
+									</div>
+								</a>
+								<div class="price-item">
+									<div class="price"> $150.00</div>
+									<div class="cart_options">
+										<ul>
+											<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
+											<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
+										</ul>
+									</div>
+								</div>
+							</div>	
 						</div>
 
-
 						<div class="swiper-slide">
-						<a href="/" class="product_box">
-							<div class="product_img">
-								<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
-							</div>
-
-							<div class="product_des">
-								The best is yet to come' Framed poster
-							</div>
-							<div class="price-item">
-								<div class="price"> $150.00</div>
-								<div class="cart_options">
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
-										<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
-									</ul>
+							<div class="product_box">
+								<a href="/">
+									<div class="product_img">
+										<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
+									</div>
+									<div class="product_des">
+										The best is yet to come' Framed poster
+									</div>
+								</a>
+								<div class="price-item">
+									<div class="price"> $150.00</div>
+									<div class="cart_options">
+										<ul>
+											<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
+											<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
+										</ul>
+									</div>
 								</div>
-							</div>
-							</a>	
+							</div>	
 						</div>
-
 						<div class="swiper-slide">
-						<a href="/" class="product_box">
-							<div class="product_img">
-								<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
-							</div>
-							<div class="product_des">
-								The best is yet to come' Framed poster
-							</div>
-							<div class="price-item">
-								<div class="price"> $150.00</div>
-								<div class="cart_options">
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
-										<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
-									</ul>
+							<div class="product_box">
+								<a href="/">
+									<div class="product_img">
+										<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
+									</div>
+
+									<div class="product_des">
+										The best is yet to come' Framed poster
+									</div>
+								</a>
+								<div class="price-item">
+									<div class="price"> $150.00</div>
+									<div class="cart_options">
+										<ul>
+											<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
+											<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
+										</ul>
+									</div>
 								</div>
-							</div>
-						</a>	
+							</div>	
 						</div>
-
-
 						<div class="swiper-slide">
-						<a href="/" class="product_box">
-							<div class="product_img">
-								<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
-							</div>
-
-							<div class="product_des">
-								The best is yet to come' Framed poster
-							</div>
-							<div class="price-item">
-								<div class="price"> $150.00</div>
-								<div class="cart_options">
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
-										<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
-									</ul>
+							<div class="product_box">
+								<a href="/">
+									<div class="product_img">
+										<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
+									</div>
+									<div class="product_des">
+										The best is yet to come' Framed poster
+									</div>
+								</a>
+								<div class="price-item">
+									<div class="price"> $150.00</div>
+									<div class="cart_options">
+										<ul>
+											<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
+											<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
+										</ul>
+									</div>
 								</div>
-							</div>
-							</a>	
+							</div>	
 						</div>
-
-
 						<div class="swiper-slide">
-						<a href="/" class="product_box">
-							<div class="product_img">
-								<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
-							</div>
-							<div class="product_des">
-								The best is yet to come' Framed poster
-							</div>
-							<div class="price-item">
-								<div class="price"> $150.00</div>
-								<div class="cart_options">
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
-										<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
-									</ul>
+							<div class="product_box">
+								<a href="/">
+									<div class="product_img">
+										<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
+									</div>
+
+									<div class="product_des">
+										The best is yet to come' Framed poster
+									</div>
+								</a>
+								<div class="price-item">
+									<div class="price"> $150.00</div>
+									<div class="cart_options">
+										<ul>
+											<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
+											<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
+										</ul>
+									</div>
 								</div>
-							</div>
-						</a>	
-						</div>
-
-
-						<div class="swiper-slide">
-						<a href="/" class="product_box">
-							<div class="product_img">
-								<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
-							</div>
-
-							<div class="product_des">
-								The best is yet to come' Framed poster
-							</div>
-							<div class="price-item">
-								<div class="price"> $150.00</div>
-								<div class="cart_options">
-									<ul>
-										<li><a href="#"><i class="fa-solid fa-cart-shopping"></i></a></li>
-										<li><a href="#"><i class="fa-solid fa-heart"></i></a></li>	
-									</ul>
-								</div>
-							</div>
-							</a>	
+							</div>	
 						</div>
 					</div>
 					</div>
