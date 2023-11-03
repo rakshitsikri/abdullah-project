@@ -2,6 +2,8 @@
 <html>
 <head>
 	<title>Padlock</title>
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.1/dist/css/bootstrap.min.css" rel="stylesheet">
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
@@ -77,7 +79,7 @@
 					<div class="swiper-wrapper">
 						<div class="swiper-slide">
 							<div class="product_box">
-								<a href="/">
+								<a href="#">
 									<div class="product_img">
 										<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
 									</div>
@@ -98,7 +100,7 @@
 						</div>
 						<div class="swiper-slide">
 							<div class="product_box">
-								<a href="/">
+								<a href="#">
 									<div class="product_img">
 										<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
 									</div>
@@ -121,7 +123,7 @@
 
 						<div class="swiper-slide">
 							<div class="product_box">
-								<a href="/">
+								<a href="#">
 									<div class="product_img">
 										<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
 									</div>
@@ -142,7 +144,7 @@
 						</div>
 						<div class="swiper-slide">
 							<div class="product_box">
-								<a href="/">
+								<a href="#">
 									<div class="product_img">
 										<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
 									</div>
@@ -164,7 +166,7 @@
 						</div>
 						<div class="swiper-slide">
 							<div class="product_box">
-								<a href="/">
+								<a href="#">
 									<div class="product_img">
 										<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
 									</div>
@@ -185,7 +187,7 @@
 						</div>
 						<div class="swiper-slide">
 							<div class="product_box">
-								<a href="/">
+								<a href="#">
 									<div class="product_img">
 										<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
 									</div>
@@ -244,7 +246,7 @@
 					<div class="swiper-wrapper">
 					<div class="swiper-slide">
 							<div class="product_box">
-								<a href="/">
+								<a href="#">
 									<div class="product_img">
 										<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
 									</div>
@@ -265,7 +267,7 @@
 						</div>
 						<div class="swiper-slide">
 							<div class="product_box">
-								<a href="/">
+								<a href="#">
 									<div class="product_img">
 										<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
 									</div>
@@ -288,7 +290,7 @@
 
 						<div class="swiper-slide">
 							<div class="product_box">
-								<a href="/">
+								<a href="#">
 									<div class="product_img">
 										<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
 									</div>
@@ -309,7 +311,7 @@
 						</div>
 						<div class="swiper-slide">
 							<div class="product_box">
-								<a href="/">
+								<a href="#">
 									<div class="product_img">
 										<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
 									</div>
@@ -331,7 +333,7 @@
 						</div>
 						<div class="swiper-slide">
 							<div class="product_box">
-								<a href="/">
+								<a href="#">
 									<div class="product_img">
 										<img src="https://elie.net/static/images/banner/evolution-of-the-https-lock-icon-infographic.jpg">
 									</div>
@@ -352,7 +354,7 @@
 						</div>
 						<div class="swiper-slide">
 							<div class="product_box">
-								<a href="/">
+								<a href="#">
 									<div class="product_img">
 										<img src="https://www.shopinlock.com.tw/themes/shopinlock/images/page-banner.jpg">
 									</div>
@@ -579,6 +581,24 @@
         nextEl: ".swiper-button-next-blog",
         prevEl: ".swiper-button-prev-blog",
       },
+      breakpoints: {
+      	0: {
+          slidesPerView: 1,
+          spaceBetween: 20,
+        },
+        640: {
+          slidesPerView: 1,
+          spaceBetween: 20,
+        },
+        768: {
+          slidesPerView: 2,
+          spaceBetween: 40,
+        },
+        1024: {
+          slidesPerView: 3,
+          spaceBetween: 30,
+        },
+      },
     });
 
 
@@ -588,6 +608,24 @@
       navigation: {
         nextEl: ".swiper-button-next-blog",
         prevEl: ".swiper-button-prev-blog",
+      },
+      breakpoints: {
+      	0: {
+          slidesPerView: 1,
+          spaceBetween: 20,
+        },
+        640: {
+          slidesPerView: 2,
+          spaceBetween: 20,
+        },
+        768: {
+          slidesPerView: 3,
+          spaceBetween: 40,
+        },
+        1024: {
+          slidesPerView: 5,
+          spaceBetween: 30,
+        },
       },
     });
 
@@ -601,6 +639,24 @@
         el: ".swiper-pagination",
         clickable: true,
       },
+      breakpoints: {
+      	0: {
+          slidesPerView: 1,
+          spaceBetween: 20,
+        },
+        640: {
+          slidesPerView: 1,
+          spaceBetween: 20,
+        },
+        768: {
+          slidesPerView: 2,
+          spaceBetween: 40,
+        },
+        1024: {
+          slidesPerView: 2,
+          spaceBetween: 30,
+        },
+      },
     });
 
 
@@ -611,6 +667,24 @@
       navigation: {
         nextEl: ".swiper-button-next-prod-feat",
         prevEl: ".swiper-button-prev-prod-feat",
+      },
+      breakpoints: {
+      	0: {
+          slidesPerView: 1,
+          spaceBetween: 20,
+        },
+        640: {
+          slidesPerView: 2,
+          spaceBetween: 20,
+        },
+        768: {
+          slidesPerView: 3,
+          spaceBetween: 30,
+        },
+        1024: {
+          slidesPerView: 4,
+          spaceBetween: 30,
+        },
       },
     });
 
@@ -624,6 +698,24 @@
         nextEl: ".swiper-button-next-prod",
         prevEl: ".swiper-button-prev-prod",
       },
+      breakpoints: {
+      	0: {
+          slidesPerView: 1,
+          spaceBetween: 20,
+        },
+        640: {
+          slidesPerView: 2,
+          spaceBetween: 20,
+        },
+        768: {
+          slidesPerView: 3,
+          spaceBetween: 30,
+        },
+        1024: {
+          slidesPerView: 4,
+          spaceBetween: 30,
+        },
+      },
     });
 
 
@@ -634,6 +726,24 @@
       navigation: {
         nextEl: ".swiper-button-next",
         prevEl: ".swiper-button-prev",
+      },
+      breakpoints: {
+      	0: {
+          slidesPerView: 1,
+          spaceBetween: 20,
+        },
+        640: {
+          slidesPerView: 1,
+          spaceBetween: 20,
+        },
+        768: {
+          slidesPerView: 1,
+          spaceBetween: 30,
+        },
+        1024: {
+          slidesPerView: 1,
+          spaceBetween: 30,
+        },
       },
     });
   </script>
