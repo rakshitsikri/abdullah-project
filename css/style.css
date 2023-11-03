@@ -209,6 +209,27 @@ select{height: 35px;}
 .counter_flex li:last-child{border: 0;}
 .icon_bg { width: 85px; height: 85px; margin: 0 auto; background: #fff; display: flex; align-items: center; justify-content: center; border-radius: 50%; margin-bottom: .5rem;}
 
+.form-floating>.form-control, .form-floating>.form-control-plaintext, .form-floating>.form-select{background: transparent;}
+.dealer_form {width: 80%!important;margin: 0 auto;background: #1a1a1a;padding: 3rem!important;margin-top: 6rem!important;}
+.dealer_form form{display: flex;flex-wrap: wrap;margin: 0 -1rem;}
+.dealer_form form .form-floating{width: calc(100% / 2);padding: 0 1rem;color: #fff;}
+.dealer_form form .form-floating>label{left: 1rem;}
+.form-floating>.form-control-plaintext:focus, .form-floating>.form-control-plaintext:not(:placeholder-shown), .form-floating>.form-control:focus, .form-floating>.form-control:not(:placeholder-shown){background:transparent;}
+.form-floating>.form-control{color: #fff;}
+.form-floating>.form-control:focus{color: #fff;}
+.form-floating>.form-control:not(:placeholder-shown)~label{color: #fff!important;}
+.form-floating label:after{display: none;}
+.form-floating>.form-control:focus~label{color: #fff!important;}
+.dealer_form form .form-floating:nth-last-child(2){width: 100%;}
+.dealer_form form .form-floating textarea{height: 100px;}
+.dealer_form form div:last-child{width: 100%;margin-top: 1.5rem;}
+.submit_btn button{background: #e5c25a;
+  padding: 0.7rem 2rem;
+  border-radius: 5px;
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: 700;}
+
 
 
 
