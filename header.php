@@ -5,12 +5,12 @@
 	<nav>
 		<ul>
 			<li><a href="/">Home</a></li>
-			<li><a href="/">About Us</a></li>
+			<li><a href="/about.html">About Us</a></li>
 			<li><a href="/">Lock</a></li>
 			<li><a href="/">Hardware</a></li>
-			<li><a href="/product.php">Shop </a></li>
+			<li><a href="/products.html">Shop </a></li>
 			<!-- <li><a href="/">testimonials</a></li> -->
-			<li><a href="/">Become a Dealer</a></li>
+			<li><a href="/become-a-dealer.html">Become a Dealer</a></li>
 		</ul>
 		<ul>
 			<li><a href="/" class="search"><i class="fa-solid fa-magnifying-glass"></i></a></li>
