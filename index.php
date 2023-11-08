@@ -506,43 +506,43 @@
 			<div class="swiper testi_slider">
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
-					<div class="testi_box">
-						<a href="#">
-							<div class="test_img">
-								<img src="images/user.jpg">
-							</div>
-							<div class="test_text">
-								<p>"Majority have suffered alteration in aome from, by injected believable.into electronic typesetting, Lorem Ipsum is imply dummy text of the release of Letraset sheetpassage."</p>
-								<h4 class="testi_name">Tony chester</h4>
-							</div>
-						</a>
-					</div>	
+						<div class="testi_box">
+							<a href="testimonial.html">
+								<div class="test_img">
+									<img src="images/user.jpg">
+								</div>
+								<div class="test_text">
+									<p>"Majority have suffered alteration in aome from, by injected believable.into electronic typesetting, Lorem Ipsum is imply dummy text of the release of Letraset sheetpassage."</p>
+									<h4 class="testi_name">Tony chester</h4>
+								</div>
+							</a>
+						</div>	
 					</div>
 					<div class="swiper-slide">
-					<div class="testi_box">
-						<a href="#">
-							<div class="test_img">
-								<img src="images/user.jpg">
-							</div>
-							<div class="test_text">
-								<p>"Majority have suffered alteration in aome from, by injected believable.into electronic typesetting, Lorem Ipsum is imply dummy text of the release of Letraset sheetpassage."</p>
-								<h4 class="testi_name">Tony chester</h4>
-							</div>
-						</a>
-					</div>	
+						<div class="testi_box">
+							<a href="testimonial.html">
+								<div class="test_img">
+									<img src="images/user.jpg">
+								</div>
+								<div class="test_text">
+									<p>"Majority have suffered alteration in aome from, by injected believable.into electronic typesetting, Lorem Ipsum is imply dummy text of the release of Letraset sheetpassage."</p>
+									<h4 class="testi_name">Tony chester</h4>
+								</div>
+							</a>
+						</div>	
 					</div>
 					<div class="swiper-slide">
-					<div class="testi_box">
-						<a href="#">
-							<div class="test_img">
-								<img src="images/user.jpg">
-							</div>
-							<div class="test_text">
-								<p>"Majority have suffered alteration in aome from, by injected believable.into electronic typesetting, Lorem Ipsum is imply dummy text of the release of Letraset sheetpassage."</p>
-								<h4 class="testi_name">Tony chester</h4>
-							</div>
-						</a>
-					</div>	
+						<div class="testi_box">
+							<a href="testimonial.html">
+								<div class="test_img">
+									<img src="images/user.jpg">
+								</div>
+								<div class="test_text">
+									<p>"Majority have suffered alteration in aome from, by injected believable.into electronic typesetting, Lorem Ipsum is imply dummy text of the release of Letraset sheetpassage."</p>
+									<h4 class="testi_name">Tony chester</h4>
+								</div>
+							</a>
+						</div>	
 					</div>
 				</div>
 				<div class="swiper_btns">	
