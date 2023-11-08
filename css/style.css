@@ -273,4 +273,10 @@ button.cart-btn {background: #e5c25a;color: #fff;padding: 0.5rem 1rem;border-rad
   nav{display: none;}
   .heading{font-size: 2rem;}
   .two_imgs{margin-bottom: 2rem;}
+  .dealer_form form .form-floating{width: 100%;padding: 0;}
+  .dealer_form form{margin: 0;}
+  .dealer_form{padding: 1.5rem!important;}
+  .footer_flex>div{width: 100%;}
+  .footer_scnd{width: 100%!important;}
+  .header_flex {padding: 0.5rem 1rem;}
 }
