@@ -103,11 +103,11 @@ nav ul li a{color: #fff;padding: 0 1rem;text-decoration: none;font-family: 'Mont
 .slider_btns>div img{width: 35px;}
 .heading {font-size: 2.5rem;font-weight: bold;color: #e5c25a;margin-bottom: 1rem;}
 .testi_box a{text-decoration: none;color: #fff;display: flex;flex-wrap: wrap;justify-content: space-between;}
-.testi_box{padding: 4rem;background-color: #000;}
+.testi_box{padding: 4rem 2rem;background-color: #000;}
 .testi_box a .test_img{width: 100px;height: 100px;}
 .testi_box a .test_img img{width: 100%;height: 100%;border-radius: 50%;object-fit: cover;}
 .testi_box a .test_text{width: 75%;}
-.swiper_btns{margin-top: 4rem;}
+.swiper_btns{padding-top: 4rem;}
 .test_text p{font-size: 1rem;line-height: 1.7;}
 /* .testimonial{background-color: #f1f1f1;} */
 .blog_img img{width: 100%;height: 100%;object-fit: cover;}
@@ -210,7 +210,7 @@ select{height: 35px;}
 .icon_bg { width: 85px; height: 85px; margin: 0 auto; background: #fff; display: flex; align-items: center; justify-content: center; border-radius: 50%; margin-bottom: .5rem;}
 
 .form-floating>.form-control, .form-floating>.form-control-plaintext, .form-floating>.form-select{background: transparent;}
-.dealer_form {width: 80%!important; margin: 0 auto; background: #1a1a1a; padding: 3rem!important; margin-top: 6rem!important; border-radius: 20px; box-shadow: 1px 7px 75px -11px rgb(255 255 255 / 18%);}
+.dealer_form {width: 80%!important; margin: 0 auto; background: #1a1a1a; padding: 3rem!important;border-radius: 20px; box-shadow: 1px 7px 75px -11px rgb(255 255 255 / 18%);}
 .dealer_form form{display: flex;flex-wrap: wrap;margin: 0 -1rem;}
 .dealer_form form .form-floating{width: calc(100% / 2);padding: 0 1rem;color: #fff;}
 .dealer_form form .form-floating>label{left: 1rem;}
@@ -264,8 +264,13 @@ button.cart-btn {background: #e5c25a;color: #fff;padding: 0.5rem 1rem;border-rad
 .blog_detail_img img{width: 100%;height: 600px;object-fit: cover;margin-bottom: 2rem;}
 .blog_dtl_text h3{font-size: 2.5rem;font-weight: bold;color: #e5c25a;margin-bottom: 1rem;}
 .blog_author{text-align: right;font-size: 1.5rem;font-weight: bold;color: #e5c25a;}
+.testimonial_flex>ul{display: flex;flex-wrap: wrap;margin: 1rem;}
+.testimonial_flex>ul>li{width: calc(100% / 2);padding: 1rem;}
+
 
 
 @media (max-width: 767px) {
   nav{display: none;}
+  .heading{font-size: 2rem;}
+  .two_imgs{margin-bottom: 2rem;}
 }
