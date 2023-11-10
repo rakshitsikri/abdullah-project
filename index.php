@@ -423,7 +423,7 @@
 	<div class="container">
 		<div>
 			<div class="sec_head">
-				<h2 class="heading">Our Blogs</h2>
+				<h2 class="heading">Our News</h2>
 				<div class="slider_btns">
 					<div class="swiper-button-prev-blog"><img src="images/back.png"> </div>
 					<div class="swiper-button-next-blog"><img src="images/right_arrow.png"></div>

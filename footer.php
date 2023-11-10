@@ -17,22 +17,23 @@
 				<h3 class="footer_heading">Quick Links</h3>
 				<ul>
 					<li><a href="/">Home</a></li>
-					<li><a href="/">About Us</a></li>
-					<li><a href="/">Shop</a></li>
-					<li><a href="/">Testimonials</a></li>
-					<li><a href="/">Become a Dealer</a></li>
+					<li><a href="/blog.html">About Us</a></li>
+					<li><a href="/products.html">Shop</a></li>
+					<li><a href="/blog.html">News</a></li>
+					<li><a href="/testimonial.html">Testimonials</a></li>
+					<li><a href="/become-a-dealer.html">Become a Dealer</a></li>
 				</ul>
 			</div>
 			<div class="footer_thrd">
 				<h3 class="footer_heading">Address</h3>
 				<div class="address">
-					<p><i class="fa-solid fa-location-dot"></i>  44 Shirley Ave, West Chicago, <br>IL 60185 Angelo</p>
+					<p><i class="fa-solid fa-location-dot"></i>  Near Shah-Jamal, Gonda Rd, Rorawar, <br>Jalalpur - Aligarh Uttar Pradesh 202001</p>
 				</div>
 				<div class="phone">
-					<p><i class="fa-solid fa-phone"></i> 123-4567-789</p>
+					<p><i class="fa-solid fa-phone"></i> +91 81266 22789</p>
 				</div>
 				<div class="email">
-					<p><i class="fa-solid fa-envelope"></i>  padlocks@info.com</p>
+					<p><i class="fa-solid fa-envelope"></i> affan9130@gmail.com</p>
 				</div>
 				
 			</div>

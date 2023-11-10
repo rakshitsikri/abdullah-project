@@ -210,7 +210,7 @@ select{height: 35px;}
 .icon_bg { width: 85px; height: 85px; margin: 0 auto; background: #fff; display: flex; align-items: center; justify-content: center; border-radius: 50%; margin-bottom: .5rem;}
 
 .form-floating>.form-control, .form-floating>.form-control-plaintext, .form-floating>.form-select{background: transparent;}
-.dealer_form {width: 80%!important; margin: 0 auto; background: #1a1a1a; padding: 3rem!important;border-radius: 20px; box-shadow: 1px 7px 75px -11px rgb(255 255 255 / 18%);}
+.dealer_form {width: 100%!important;background: #1a1a1a; padding: 3rem!important;border-radius: 20px; box-shadow: 1px 7px 75px -11px rgb(255 255 255 / 18%);}
 .dealer_form form{display: flex;flex-wrap: wrap;margin: 0 -1rem;}
 .dealer_form form .form-floating{width: calc(100% / 2);padding: 0 1rem;color: #fff;}
 .dealer_form form .form-floating>label{left: 1rem;}
@@ -266,6 +266,16 @@ button.cart-btn {background: #e5c25a;color: #fff;padding: 0.5rem 1rem;border-rad
 .blog_author{text-align: right;font-size: 1.5rem;font-weight: bold;color: #e5c25a;}
 .testimonial_flex>ul{display: flex;flex-wrap: wrap;margin: 1rem;}
 .testimonial_flex>ul>li{width: calc(100% / 2);padding: 1rem;}
+.dealer_right {width: 65%;}
+.dealer_box {display: flex;flex-wrap: wrap;justify-content: space-between;}
+.dealer_left {width: 30%; padding: 2rem; border-radius: 20px; box-shadow: 1px 7px 75px -11px rgb(255 255 255 / 18%); background: #1a1a1a;}
+.dealer_contact{padding: 0;}
+.dealer_contact li{margin-bottom: 1rem;}
+.dealer_contact li a{color: #fff;text-decoration: none;font-size: 1.3rem;display: inline-block;margin-left: .5rem;}
+.dealer_contact li span{margin-left: .5rem;font-size: 1.3rem;}
+.dealer_contact li svg{font-size: 1.3rem;}
+
+
 
 
 
