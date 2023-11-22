@@ -60,9 +60,9 @@
 	            <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com" name="email" required="">
 	            <label for="floatingInput">Email address</label>
 	        </div>
-	        <div class="text-center mt-5">
+	        <div class="text-center mt-4">
                 <div>
-                    <button type="submit" class="buy_btn">Submit</button>
+                    <button type="submit" class="buy_btn">Send OTP</button>
                 </div>
             </div>
 	    </form>

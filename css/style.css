@@ -308,13 +308,18 @@ button.cart-btn {background: #e5c25a;color: #fff;padding: 0.5rem 1rem;border-rad
 .form-group .btns{background: #171717;padding: 0.5rem 1rem;border: 1px solid #171717;color: #fff!important;}
 .pabsolutebtn{top: 10px;right: 10px;position: absolute;}
 .oin {display: flex;flex-wrap: wrap;justify-content: space-between;margin: 1rem 0;}
-.oin input {width: calc(95% / 4);height: 50px;    border-radius: 1rem;border: 1px solid #262626;text-align: center;}
-a.cartimg {
-  width: 250px;
-}
-.cartimg img {
-  width: 100%;
-}
+.oin input {width: calc(95% / 4);height: 50px;border-radius: 1rem;border: 1px solid #262626;text-align: center;}
+a.cartimg {width: 250px;}
+.cartimg img {width: 100%;}
+.modal-body{background: #000;}
+.modal-body .form-floating>label{color: #fff;}
+.modal-header{background: #e5c25a;color: #fff;    padding: 0.5rem!important;}
+.procont>.titles>p a{color: #fff;text-decoration: none;font-weight: bold;}
+.remove a{color: #fff; text-decoration: none; font-weight: bold; display: inline-block; margin-top: 1rem;}
+.selectqty button { width: 20%; float: left; border: none; height: 34px; background: #ffffff57; }
+.selectqty input { width: 40%; float: left; border: none; border-left: 1px solid #e6e7ec; border-right: 1px solid #e6e7ec; height: 34px; text-align: center; }
+
+
 
 
 
