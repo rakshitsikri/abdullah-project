@@ -15,7 +15,9 @@
 		<ul>
 			<li><a href="/" class="search"><i class="fa-solid fa-magnifying-glass"></i></a></li>
 			<li><a href="/" class="cart"><i class="fa-solid fa-cart-shopping"></i></a></li>
-			<li><a href="/" class="user_icon"><i class="fa-regular fa-user"></i></a></li>
+			<li><a href="javascript:void(0);" class="user_icon" data-bs-toggle="modal" data-bs-target="#exampleModal">Login</a></li>
 		</ul>
 	</nav>
 </header>
+
+

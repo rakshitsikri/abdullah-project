@@ -40,3 +40,33 @@
 		</div>
 	</div>
 </footer>
+
+
+
+<!-- Button trigger modal -->
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Login / Signup</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+      	<form>
+	      	<div class="form-floating mb-3">
+	            <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com" name="email" required="">
+	            <label for="floatingInput">Email address</label>
+	        </div>
+	        <div class="text-center mt-5">
+                <div>
+                    <button type="submit" class="buy_btn">Submit</button>
+                </div>
+            </div>
+	    </form>
+      </div>
+    </div>
+  </div>
+</div>
