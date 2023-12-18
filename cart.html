@@ -32,7 +32,7 @@
 			<li><a href="/">Become a Dealer</a></li>
 		</ul>
 		<ul>
-			<li><a href="/" class="user_icon">Login</a></li>
+			<li><a href="javascript:void(0);" class="user_icon" data-bs-toggle="modal" data-bs-target="#exampleModal">Login</a></li>
 			<li><a href="/" class="search"><i class="fa-solid fa-magnifying-glass"></i></a></li>
 			<li><a href="/" class="cart"><i class="fa-solid fa-cart-shopping"></i></a></li>
 		</ul>
@@ -301,6 +301,37 @@
 		</div>
 	</div>
 </footer>
+
+
+
+
+
+
+<!-- Modal -->
+<div class="modal fade" id="exampleModal" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Login / Signup</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+      	<form>
+	      	<div class="form-floating mb-3">
+	            <input type="email" class="form-control" id="floatingInput" placeholder="name@example.com" name="email" required="">
+	            <label for="floatingInput">Email address</label>
+	        </div>
+			<div class="signupbtn"><a href="/">New User? Signup Now</a></div>
+	        <div class="text-center mt-4">
+                <div>
+                    <button type="submit" class="buy_btn">Send OTP</button>
+                </div>
+            </div>
+	    </form>
+      </div>
+    </div>
+  </div>
+</div>
 
 </body>
 </html>
