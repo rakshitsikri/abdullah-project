@@ -164,7 +164,9 @@ footer ul a{color: #fff;text-decoration: none;}
 .cart{color: #e5c25a;font-size: 1.5rem;}
 .heading span {background: -webkit-linear-gradient(45deg, #222, #ccc 80%);-webkit-background-clip: text;-webkit-text-fill-color: transparent;}
 .client_logo img{filter: brightness(100);}
-.footer_scnd{width: 15%!important;}
+.footer_scnd{width: 33.33%!important;}
+.footer_scnd ul{display: flex;flex-wrap: wrap;}
+.footer_scnd li{width: calc(100% / 2);}
 .cta{background-image: url('../images/map.png');background-color: #000;padding: 10rem;}
 .inner_banner{height: 450px;position: relative;}
 .inner_banner img{width: 100%;height: 100%;object-fit: cover;}
@@ -673,6 +675,11 @@ a.cartimg {width: 250px;}
 .form-floating>label{    padding: 1rem 1.5rem!important;}
 .paymnt_box { border: 1px solid #8a8a8a; padding: 2rem; clear: both; width: 100%; border-radius: 3px; margin: 0 -0.5rem; }
 .p_method {margin-bottom: 0.5rem;}
+
+.paymnt_optin{width: 100%;clear: both;padding: 15px 30px;border: 1px solid #e3e3e3;}
+.paymnt_optin ul{padding: 0;margin-bottom: 0;}
+.paymnt_optin li{margin-bottom: .5rem;}
+.paymnt_optin li:last-child{margin-bottom: 0;}
 
 
 
